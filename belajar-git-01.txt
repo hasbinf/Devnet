@@ -1,3 +1,4 @@
 Berikut resolusi belajar Devnet :
 - Agenda Pertemuan satu minggu sekali
 - Pada setiap pertemuan membahas satu materi
+- Belajar Devnet menjadi persiapan untuk mengikuti sertifikasi cisco devnet
